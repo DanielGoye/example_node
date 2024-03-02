@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "64e5cbb0a05a47bf292e0e8e"
+  },
+  "name": "React",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550251/Porfolio/react_voh9sk.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cbd1a05a47bf292e0e9a"
+  },
+  "name": "NodeJS",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550251/Porfolio/node_ym6yq4.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cc00a05a47bf292e0e9d"
+  },
+  "name": "Flutter",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550250/Porfolio/flutter_bewp4w.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cc52a05a47bf292e0ea9"
+  },
+  "name": "MongoDB",
+  "bgColor": "#edf2f8",
+  "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cc9ba05a47bf292e0eb5"
+  },
+  "name": "NextJS",
+  "bgColor": "#edf2f8",
+  "icon": "https://cdn.worldvectorlogo.com/logos/nextjs-2.svg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5ccb6a05a47bf292e0eb7"
+  },
+  "name": "Express",
+  "bgColor": "#edf2f8",
+  "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cd00a05a47bf292e0ec3"
+  },
+  "name": "Redux",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550251/Porfolio/redux_ks9n3t.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cd68a05a47bf292e0ecf"
+  },
+  "name": "Material UI",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550250/Porfolio/mu5_p1dk8u.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cd98a05a47bf292e0edb"
+  },
+  "name": "Bootstrap",
+  "bgColor": "#edf2f8",
+  "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5ce25a05a47bf292e0ee7"
+  },
+  "name": "HTML",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550250/Porfolio/html_obzfz2.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5ce3ca05a47bf292e0ee9"
+  },
+  "name": "CSS",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550249/Porfolio/css_hfp6sm.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5ce54a05a47bf292e0eeb"
+  },
+  "name": "Javascript",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550250/Porfolio/javascript_qwcc6z.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5ce78a05a47bf292e0eed"
+  },
+  "name": "Dart",
+  "bgColor": "#edf2f8",
+  "icon": "https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5ce92a05a47bf292e0eef"
+  },
+  "name": "Python",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550251/Porfolio/python_w9eljl.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5ceada05a47bf292e0ef1"
+  },
+  "name": "MySql",
+  "bgColor": "#edf2f8",
+  "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cf03a05a47bf292e0efd"
+  },
+  "name": "Figma",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550249/Porfolio/figma_lrnhtq.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cf1ba05a47bf292e0eff"
+  },
+  "name": "Git",
+  "bgColor": "#edf2f8",
+  "icon": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692550250/Porfolio/git_yiwcgz.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cf33a05a47bf292e0f01"
+  },
+  "name": "Google Cloud",
+  "bgColor": "#edf2f8",
+  "icon": "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e5cf47a05a47bf292e0f03"
+  },
+  "name": "Firebase",
+  "bgColor": "#edf2f8",
+  "icon": "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+  "__v": 0
+}]

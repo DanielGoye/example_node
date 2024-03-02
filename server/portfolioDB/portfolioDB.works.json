@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "64e2334dd236e3c1f1dabfc3"
+  },
+  "title": "Pima",
+  "description": "A modern fullstack e-commerce platform",
+  "projectLink": "https://pimawear.co.ke/",
+  "codeLink": "https://pimawear.co.ke/",
+  "imgURL": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692546325/Porfolio/Pima_bpvhz0.png",
+  "tags": [
+    {
+      "tag": "Web App",
+      "_id": {
+        "$oid": "64e23b7fd236e3c1f1dac0e2"
+      }
+    },
+    {
+      "tag": "React Js",
+      "_id": {
+        "$oid": "64e23b7fd236e3c1f1dac0e3"
+      }
+    }
+  ],
+  "__v": 0,
+  "private": true
+},
+{
+  "_id": {
+    "$oid": "64e2379dd236e3c1f1dac039"
+  },
+  "title": "Chit Chat",
+  "description": "A fullstack chat application with real time communication.",
+  "projectLink": "https://chitchat519.netlify.app",
+  "codeLink": "https://github.com/DanielGoye/Chit_Chat_MERN",
+  "imgURL": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692546834/Porfolio/Chit_Chat_iuysgc.png",
+  "tags": [
+    {
+      "tag": "Web App",
+      "_id": {
+        "$oid": "64e23b53d236e3c1f1dac0c2"
+      }
+    },
+    {
+      "tag": "React Js",
+      "_id": {
+        "$oid": "64e23b53d236e3c1f1dac0c3"
+      }
+    }
+  ],
+  "__v": 0,
+  "private": false
+},
+{
+  "_id": {
+    "$oid": "64e2395ad236e3c1f1dac076"
+  },
+  "title": "Circle Link",
+  "description": "A fullstack social media application.",
+  "projectLink": "https://circle-link.netlify.app",
+  "codeLink": "https://github.com/DanielGoye/Circle_Link_MERN",
+  "imgURL": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692547340/Porfolio/Circle_Link_wlldz7.png",
+  "tags": [
+    {
+      "tag": "Web App",
+      "_id": {
+        "$oid": "64e23bbfd236e3c1f1dac0ff"
+      }
+    },
+    {
+      "tag": "React Js",
+      "_id": {
+        "$oid": "64e23bbfd236e3c1f1dac100"
+      }
+    }
+  ],
+  "__v": 0,
+  "private": false
+}]

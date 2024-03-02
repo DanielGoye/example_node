@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "64c5169a980817a02da95002"
+  },
+  "title": "Frontend Development",
+  "description": "I can build out any modern website design using modern libraries and frameworks.",
+  "imgUrl": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1690652757/Porfolio/Web_Development_rlakff.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c517ba980817a02da95009"
+  },
+  "title": "Backend Development",
+  "description": "I can design and implement robust backend systems, utilizing a diverse range of programming languages and frameworks.",
+  "imgUrl": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1690652761/Porfolio/Backend_Development_nhdsq7.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dfd1c619b19392ccc3813b"
+  },
+  "title": "Fullstack Development",
+  "description": "I can empower projects from conception to deployment, being proficient in both user-centric interfaces and data-driven server systems.",
+  "imgUrl": "https://res.cloudinary.com/dhb2zvszq/image/upload/v1692389741/Porfolio/Fullstack_pos9x4.png",
+  "__v": 0
+}]
